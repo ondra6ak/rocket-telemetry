@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by Cvpcb (2014-09-07 BZR 5117)-product   date = Čt 18. září 2014, 13:07:04 CEST
+
+BeginCmp
+TimeStamp = /5415C7F5;
+Reference = BT1;
+ValeurCmp = 3v7;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /541AA8D3;
+Reference = C1;
+ValeurCmp = 4.7uF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /541AAD78;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5415E7CD;
+Reference = P1;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5415E6DB;
+Reference = Q1;
+ValeurCmp = IRF7456PBF;
+IdModule  = MICRO8;
+EndCmp
+
+BeginCmp
+TimeStamp = /541AACEC;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /541AA977;
+Reference = RV1;
+ValeurCmp = 1k;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /541AA5A9;
+Reference = U1;
+ValeurCmp = 4047;
+IdModule  = SMD_Packages:SOIC-14_W;
+EndCmp
+
+EndListe
