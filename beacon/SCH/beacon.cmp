@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by Cvpcb (2014-09-18 BZR 5141)-product   date = Pá 19. září 2014, 21:40:12 CEST
+
+BeginCmp
+TimeStamp = /540DF1FA;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = Coin Cell Holder:Coin_Cell_Holder_CH25-2032LF;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E052B;
+Reference = C1;
+ValeurCmp = 2.2uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /540DF1E1;
+Reference = C2;
+ValeurCmp = 100uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /540F4A49;
+Reference = P1;
+ValeurCmp = CONNECTOR;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = /540DF2DF;
+Reference = R1;
+ValeurCmp = 4k7;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /540DFA27;
+Reference = R2;
+ValeurCmp = 2k2;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E03D6;
+Reference = TH1;
+ValeurCmp = 1k5;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /540DFD5D;
+Reference = U1;
+ValeurCmp = 74LS14;
+IdModule  = SMD_Packages:SOIC-14_W;
+EndCmp
+
+BeginCmp
+TimeStamp = /540DF191;
+Reference = U2;
+ValeurCmp = LM555N;
+IdModule  = SMD_Packages:SOIC-8-W;
+EndCmp
+
+BeginCmp
+TimeStamp = /540F470C;
+Reference = U3;
+ValeurCmp = QFM-TX1;
+IdModule  = QFM-TX1:QFM-TX1;
+EndCmp
+
+EndListe
