@@ -1,17 +1,24 @@
-Cmp-Mod V01 Created by Cvpcb (2014-09-07 BZR 5117)-product   date = Čt 18. září 2014, 13:07:04 CEST
+Cmp-Mod V01 Created by Cvpcb (2014-09-18 BZR 5141)-product   date = Pá 19. září 2014, 13:38:39 CEST
 
 BeginCmp
-TimeStamp = /5415C7F5;
+TimeStamp = /541C1376;
 Reference = BT1;
 ValeurCmp = 3v7;
 IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
 EndCmp
 
 BeginCmp
+TimeStamp = /5415C7F5;
+Reference = BT2;
+ValeurCmp = 3v;
+IdModule  = Coin Cell Holder:Coin_Cell_Holder_CH25-2032LF;
+EndCmp
+
+BeginCmp
 TimeStamp = /541AA8D3;
 Reference = C1;
-ValeurCmp = 4.7uF;
-IdModule  = SMD_Packages:SMD-0805;
+ValeurCmp = 4u7;
+IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
@@ -29,24 +36,24 @@ IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
 EndCmp
 
 BeginCmp
-TimeStamp = /5415E6DB;
+TimeStamp = /541BE029;
 Reference = Q1;
-ValeurCmp = IRF7456PBF;
-IdModule  = MICRO8;
+ValeurCmp = IRF7413ZPBF;
+IdModule  = SMD_Packages:SOIC-8-W;
 EndCmp
 
 BeginCmp
 TimeStamp = /541AACEC;
 Reference = R1;
 ValeurCmp = 10k;
-IdModule  = SMD_Packages:SMD-0805;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /541AA977;
 Reference = RV1;
 ValeurCmp = 1k;
-IdModule  = ;
+IdModule  = Koa Trimmer Smd:Koa_Trimmer_Smd_C;
 EndCmp
 
 BeginCmp

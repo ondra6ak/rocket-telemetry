@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Coin Cell Holder")(type KiCad)(uri /home/ondra6ak/Documents/rocket-telemetry/beacon/kicad_lib/Coin_Cell_Holder_CH25-2032LF.pretty)(options "")(descr ""))
+)
