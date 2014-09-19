@@ -1,4 +1,4 @@
-update=Čt 11. září 2014, 18:41:31 CEST
+update=Pá 19. září 2014, 21:18:39 CEST
 version=1
 last_client=kicad
 [cvpcb]
@@ -37,9 +37,11 @@ RptD_X=0
 RptD_Y=100
 RptLab=1
 LabSize=60
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=../kicad_lib
+LibDir=../../kicad_lib
 [eeschema/libraries]
 LibName1=qfm-tx1
 LibName2=power
@@ -72,5 +74,3 @@ LibName28=opto
 LibName29=atmel
 LibName30=contrib
 LibName31=valves
-[general]
-version=1
