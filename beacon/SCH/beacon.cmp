@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-09-18 BZR 5141)-product   date = Pá 19. září 2014, 21:40:12 CEST
+Cmp-Mod V01 Created by Cvpcb (2014-09-18 BZR 5141)-product   date = So 20. září 2014, 00:11:52 CEST
 
 BeginCmp
 TimeStamp = /540DF1FA;
@@ -46,7 +46,7 @@ BeginCmp
 TimeStamp = /540E03D6;
 Reference = TH1;
 ValeurCmp = 1k5;
-IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+IdModule  = Capacitors_ThroughHole:Capacitor7x3-5RM5_RevB;
 EndCmp
 
 BeginCmp
